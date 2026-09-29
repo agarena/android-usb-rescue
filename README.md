@@ -20,7 +20,7 @@ Broken power button? Stuck in fastboot? Black screen? Rescue your Android phone 
 
 ```bash
 # 方式一：skills CLI
-npx skills add aipanini/android-usb-rescue
+npx skills add agarena/android-usb-rescue
 
 # 方式二：手动安装——把本仓库内容放进 AI 工具的技能目录，例如
 #   ZCode:        ~/.zcode/skills/android-usb-rescue/
